@@ -1,13 +1,14 @@
 # ChatterBox - RealTime Chat App 💬✨
 
-A stunning, state-of-the-art RealTime Chat application built on the MERN stack with Socket.io. Features a premium glassmorphic UI, real-time messaging, password authentication, and the ability to delete your own messages.
-
 ### Internship Details
 - **Company:** CODTECH IT Solutions Pvt. Ltd.
 - **Role:** MERN Stack Web Development Intern
 - **Intern ID:** CITS1761
 
 ---
+
+A stunning, state-of-the-art RealTime Chat application built on the MERN stack with Socket.io. Features a premium glassmorphic UI, real-time messaging, password authentication, and the ability to delete your own messages.
+
 
 ## 🚀 Features
 
@@ -60,3 +61,4 @@ npm run dev
 - Open your browser and navigate to `http://localhost:5173`.
 - Enter a Display Name and a Password to securely join the chat.
 - Start chatting! Hover over your own messages to reveal the Trash icon and delete them.
+
